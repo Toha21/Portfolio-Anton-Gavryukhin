@@ -24,3 +24,5 @@
 * [Git — система контроля версий](https://netology.ru/backend/api/user/programs/27308/pdf_certificate)
 * [Java для тестировщиков](https://netology.ru/backend/api/user/programs/27476/pdf_certificate)
 * [Автоматизированное тестирование](https://netology.ru/backend/api/user/programs/30394/pdf_certificate)
+* [JavaScript для тестировщиков](https://netology.ru/backend/api/user/programs/30409/pdf_certificate)
+* [Автоматизация тестирования веб-интерфейсов](https://netology.ru/backend/api/user/programs/30415/pdf_certificate)
